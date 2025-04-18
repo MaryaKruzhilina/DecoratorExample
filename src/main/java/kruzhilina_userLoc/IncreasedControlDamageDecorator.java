@@ -1,7 +1,7 @@
 package kruzhilina_userLoc;
 
-public class IncreasedControlDecorator extends ControlDecorator {
-    public IncreasedControlDecorator(Control control) {
+public class IncreasedControlDamageDecorator extends ControlDecorator {
+    public IncreasedControlDamageDecorator(Control control) {
         super(control);
     }
 
